@@ -1,0 +1,3 @@
+Build any of these environments with:
+
+conda env create -f <filename>.yml
