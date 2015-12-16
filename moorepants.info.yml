@@ -1,0 +1,28 @@
+name: moorepants.info
+dependencies:
+- docutils=0.12=py27_0
+- ecdsa=0.11=py27_0
+- fabric=1.10.2=py27_0
+- openssl=1.0.2d=0
+- paramiko=1.15.2=py27_0
+- pip=7.1.2=py27_0
+- pycrypto=2.6.1=py27_0
+- python=2.7.10=2
+- readline=6.2=2
+- setuptools=18.4=py27_0
+- sqlite=3.8.4.1=1
+- tk=8.5.18=0
+- wheel=0.26.0=py27_1
+- zlib=1.2.8=0
+- pip:
+  - commando==0.3.4
+  - fswrap==0.1.2
+  - hyde==0.8.8
+  - jinja2==2.7.1
+  - markdown==2.3.1
+  - markupsafe==0.18
+  - pygments==1.6
+  - pyyaml==3.10
+  - smartypants==1.7.1
+  - typogrify==2.0.0
+
